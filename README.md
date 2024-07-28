@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
+- 💪 I’m confident in **Terraform**, CI/CD with **Jenkins**, and **Docker**
+  
+- 🚀 On my way to exploring **Kubernetes**
+
 - 👯 I’m looking to collaborate on **Cloud projects**
 
 - 🤝 I’m looking for help with **Cloud Projects**
